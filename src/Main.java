@@ -13,7 +13,7 @@ public class Main {
     }
 
     static void main(String[] args) {
-        //PROBLEMA 1:
+        //PROBLEMA 1;
         /*List<Integer> x = new ArrayList<>();
         List<Integer> y = new ArrayList<>();
         Random rand = new Random();
